@@ -1,0 +1,75 @@
+nohup: ignoring input
+ * Serving Flask app 'app2'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8891
+ * Running on http://59.77.7.24:8891
+[33mPress CTRL+C to quit[0m
+10.32.89.198 - - [19/Dec/2024 19:41:19] "GET / HTTP/1.1" 200 -
+10.32.89.198 - - [19/Dec/2024 19:41:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 19:41:29] "GET / HTTP/1.1" 200 -
+10.32.89.198 - - [19/Dec/2024 19:41:29] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 19:41:29] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 19:41:55] "GET / HTTP/1.1" 200 -
+10.32.89.198 - - [19/Dec/2024 19:41:55] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 19:41:55] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 19:42:21] "GET / HTTP/1.1" 200 -
+10.32.89.198 - - [19/Dec/2024 19:42:21] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 19:42:21] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 19:42:36] "GET / HTTP/1.1" 200 -
+10.32.89.198 - - [19/Dec/2024 19:42:37] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 19:42:37] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:11:21] "[36mGET / HTTP/1.1[0m" 304 -
+10.32.89.198 - - [19/Dec/2024 21:11:21] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:11:21] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:11:24] "[36mGET / HTTP/1.1[0m" 304 -
+10.32.89.198 - - [19/Dec/2024 21:11:24] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:11:24] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:11:26] "[36mGET / HTTP/1.1[0m" 304 -
+10.32.89.198 - - [19/Dec/2024 21:11:26] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:11:26] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:11:28] "[36mGET / HTTP/1.1[0m" 304 -
+10.32.89.198 - - [19/Dec/2024 21:11:28] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:11:28] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:15:20] "[33mGET /room_reservations HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:15:22] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:15:22] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:15:54] "[36mGET / HTTP/1.1[0m" 304 -
+10.32.89.198 - - [19/Dec/2024 21:15:54] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.89.198 - - [19/Dec/2024 21:15:54] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.125.107.115 - - [20/Dec/2024 11:12:52] "GET / HTTP/1.1" 200 -
+10.125.107.115 - - [20/Dec/2024 11:12:53] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.125.107.115 - - [20/Dec/2024 11:12:53] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.125.107.115 - - [20/Dec/2024 19:13:50] "GET / HTTP/1.1" 200 -
+10.125.107.115 - - [20/Dec/2024 19:13:50] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.125.107.115 - - [20/Dec/2024 19:13:50] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.84.10 - - [20/Dec/2024 19:33:12] "GET / HTTP/1.1" 200 -
+10.32.84.10 - - [20/Dec/2024 19:33:12] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.84.10 - - [20/Dec/2024 19:33:12] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.125.107.115 - - [22/Dec/2024 17:37:21] "GET / HTTP/1.1" 200 -
+10.125.107.115 - - [22/Dec/2024 17:37:21] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.125.107.115 - - [22/Dec/2024 17:37:21] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.84.10 - - [22/Dec/2024 18:00:38] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.84.10 - - [22/Dec/2024 18:00:38] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.84.10 - - [22/Dec/2024 18:00:40] "GET / HTTP/1.1" 200 -
+10.32.84.10 - - [22/Dec/2024 18:00:40] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.84.10 - - [22/Dec/2024 18:00:40] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.84.10 - - [22/Dec/2024 18:00:49] "GET / HTTP/1.1" 200 -
+10.32.84.10 - - [22/Dec/2024 18:00:49] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.84.10 - - [22/Dec/2024 18:00:49] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.27.192.254 - - [23/Dec/2024 17:08:32] "GET / HTTP/1.1" 200 -
+10.27.192.254 - - [23/Dec/2024 17:08:32] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.27.192.254 - - [23/Dec/2024 17:08:33] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.84.10 - - [23/Dec/2024 18:57:48] "GET / HTTP/1.1" 200 -
+10.32.84.10 - - [23/Dec/2024 18:57:48] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.84.10 - - [23/Dec/2024 18:57:48] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.125.107.115 - - [24/Dec/2024 13:43:24] "GET / HTTP/1.1" 200 -
+10.125.107.115 - - [24/Dec/2024 13:43:24] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.125.107.115 - - [24/Dec/2024 13:43:29] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.125.107.115 - - [24/Dec/2024 13:49:09] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.125.107.115 - - [24/Dec/2024 13:49:10] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.84.10 - - [24/Dec/2024 14:05:49] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.84.10 - - [24/Dec/2024 14:05:49] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
+10.32.84.10 - - [24/Dec/2024 14:28:18] "[33mGET /sites/all/themes/bootstrap/css/drupal-bootstrap.css HTTP/1.1[0m" 404 -
+10.32.84.10 - - [24/Dec/2024 14:28:18] "[33mGET /sites/all/modules/services/js/bootstrap.min.js HTTP/1.1[0m" 404 -
